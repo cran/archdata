@@ -2,7 +2,7 @@
 \alias{Snodgrass}
 \docType{data}
 \title{
-House pitss at the Mississippian Snodgrass site in Butler County, Missouri, U.S.A.
+House pits at the Mississippian Snodgrass site in Butler County, Missouri, U.S.A.
 }
 \description{
 Information on the size, location and contents of 91 house pits at the Snodgrass site which was occupied between about CE 1325-1420.
@@ -29,7 +29,7 @@ Information on the size, location and contents of 91 house pits at the Snodgrass
   }
 }
 \details{
-The data from 91 house pits at the Snodgrass site were reported by Price and Giffin in 1979. The layout of the houses follows a grid pattern with the long axis oriented northeast surrounded by a fortification trench. There is also evidence of an interior wall that may have separated the houses inside that wall from those outside the wall. Price and Griffin use differences in house size and artifact composition to suggest that those distinction may have reflected rank differences between the occupants of the two areas. That conclusion has been questioned on a number of grounds by Cogswell, et al (2001), but the data are still useful for illustrating a number of quantitative methods. The data come from the appendices except for the house locations which were estimated from the base map in Figure 10 (Price and Griffin 1979). 
+The data from 91 house pits at the Snodgrass site were reported by Price and Giffin in 1979. The layout of the houses follows a grid pattern with the long axis oriented northeast surrounded by a fortification trench. There is also evidence of an interior wall that may have separated the houses inside that wall from those outside the wall. Price and Griffin use differences in house size and artifact composition to suggest that those distinction may have reflected rank differences between the occupants of the two areas. That conclusion has been questioned on a number of grounds by Cogswell, et al (2001), but the data are still useful for illustrating a number of quantitative methods. The data come from the appendices except for the house locations which were estimated from the base map in Figure 10 (Price and Griffin 1979).
 }
 \source{
 Price, J. E. and J. B. Griffin. 1979. The Snodgrass Site of the Powers Phase of Southeast Missouri. \emph{Anthropological Papers. Museum of Anthropology, University of Michigan, No.} 66.

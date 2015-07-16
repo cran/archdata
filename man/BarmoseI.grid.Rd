@@ -6,7 +6,7 @@
 Flakes per grid unit from Barmose I, South Zealand, Denmark
 }
 \description{
-Flake counts for each of 107 contiguous grid units at the Barmose I Maglemosian site used by Blankholm (1991) to illustrate several spatial analysis methods. 
+Flake counts for each of 107 contiguous grid units at the Barmose I Maglemosian site used by Blankholm (1991) to illustrate several spatial analysis methods.
 }
 \usage{data(BarmoseI.grid)}
 \format{
@@ -18,7 +18,7 @@ Flake counts for each of 107 contiguous grid units at the Barmose I Maglemosian 
   }
 }
 \details{
-Barmose I is an early Maglemosian (7500 - 6000 bc)  site located in Barmosen in South Zealand, Denmark. The site was excavated in 1967-1971 by Axel Johansson (Johansson 1971 and 1990). Flake counts and grid coordinates were taken from Figure 100 in Blankholm (1991) for \code{BarmoseI.grid}. \code{BarmoseI.pp} includes the locations of 473 artifacts from Appendix C of Blankholm's book. 
+Barmose I is an early Maglemosian (7500 - 6000 bc)  site located in Barmosen in South Zealand, Denmark. The site was excavated in 1967-1971 by Axel Johansson (Johansson 1971 and 1990). Flake counts and grid coordinates were taken from Figure 100 in Blankholm (1991) for \code{BarmoseI.grid}. \code{BarmoseI.pp} includes the locations of 473 artifacts from Appendix C of Blankholm's book.
 }
 \source{
 Blankholm, Hans Peter. 1991. \emph{Intrasite Spatial Analysis in Theory and Practice}. Aarhus University Press.

@@ -5,7 +5,7 @@
 Ernest Witte Cemetery, Austin, County, Texas, U.S.A.
 }
 \description{
-Sex, age, burial group, location, and burial orientation and direction facing from the Ernest Witte site, a Late Archaic cemetery in Texas (Hall 1981). 
+Sex, age, burial group, location, and burial orientation and direction facing from the Ernest Witte site, a Late Archaic cemetery in Texas (Hall 1981).
 
 }
 \usage{data(EWBurials)}
@@ -13,12 +13,13 @@ Sex, age, burial group, location, and burial orientation and direction facing fr
   A data frame with 49 observations on the following 7 variables.
   \describe{
     \item{\code{Group}}{Cemetery group, a factor with levels \code{1}, \code{2}}
+    \item{\code{North}}{North grid location of the burial in meters (excavation grid system)}
+    \item{\code{West}}{East grid location of the burial in meters (excavation grid system)}
     \item{\code{Age}}{Age category, a factor with levels \code{Fetus}, \code{Infant}, \code{Child}, \code{Adolescent}, \code{Young Adult}, \code{Adult}, \code{Middle Adult}, \code{Old Adult}}
     \item{\code{Sex}}{a factor with levels \code{Female}, \code{Male}}
     \item{\code{Direction}}{circular data in degrees indicating the direction of the individual measured from the head along the vertebral column}
-    \item{\code{North}}{North grid location of the burial in meters (excavation grid system)}
-    \item{\code{West}}{East grid location of the burial in meters (excavation grid system)}
     \item{\code{Looking}}{circular data in degrees indication the direction the individual is facing}
+    \item{\code{Goods}}{Presence or absence of grave goods}
   }
 }
 \details{
@@ -31,8 +32,10 @@ Hall, G. D. 1981. Allen's Creek: A Study in the Cultural Prehistory of the Lower
 Hall, G. D. 2010. Ernest Witte site. \emph{Handbook of Texas Online} \url{http://www.tshaonline.org/handbook/online/articles/bbe05}. Texas State Historical Association.
 }
 \examples{
-library(circular)
 data(EWBurials)
+xtabs(~Age+Sex+Group, EWBurials)
+
+library(circular)
 plot(EWBurials$Direction)
 }
 \keyword{datasets}
