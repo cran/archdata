@@ -28,7 +28,7 @@ Conkey, M. W. 1980. The Identification of Prehistoric Hunter-Gatherer Aggregatio
 
 Kaufman, D. 1998. Measuring Archaeological Diversity: An Application of the Jackknife Technique. \emph{American Antiquity} 63: 73-85.
 
-Kintigh, K. 1984. Measuring Archaeological Diversity by Comparison with Simulated Assemblages. emph{American Antiquity} 49: 44-54.
+Kintigh, K. 1984. Measuring Archaeological Diversity by Comparison with Simulated Assemblages. \emph{American Antiquity} 49: 44-54.
 
 }
 \examples{

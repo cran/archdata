@@ -13,7 +13,7 @@ Archaeological data sets for use by archaeologists and others interested applyin
 \tabular{ll}{
 Package: \tab archdata\cr
 Type: \tab Package\cr
-Version: \tab 1.0\cr
+Version: \tab 1.1\cr
 Date: \tab 2015-07-25\cr
 License: \tab GPL\cr
 }
@@ -45,7 +45,7 @@ License: \tab GPL\cr
 }
 }
 \author{
-David L. Carlson\cr
+David L. Carlson and Georg Roth\cr
 Maintainer: David L. Carlson <dcarlson@tamu.edu>\cr
 }
 \references{

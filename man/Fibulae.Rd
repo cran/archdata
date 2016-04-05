@@ -25,7 +25,7 @@ The La Tène fibulae from the Iron Age cemetery of Münsingen near Berne, Switze
     \item{\code{C}}{Catchplate}
     \item{\code{BW}}{Bow Width}
     \item{\code{BT}}{Bow Thickness}
-    \item{\code{FEW}}{Foot Extension Thickness}
+    \item{\code{FEW}}{Foot Extension Width}
     \item{\code{Coils}}{Number of Coils}
     \item{\code{Length}}{Total Length}
   }
