@@ -5,7 +5,7 @@
 Bronze Age Cups from Italy
 }
 \description{
-Measurments on Early and Late Bronze Age ceramic cups from Italy analyzed by Lukesh and Howe (1978).
+Measurements on Early and Late Bronze Age ceramic cups from Italy analyzed by Lukesh and Howe (1978).
 }
 \usage{data("BACups")}
 \format{

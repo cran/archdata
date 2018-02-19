@@ -22,12 +22,14 @@ Ceramic distribution in a midden deposit at Pueblo San Cristobal reported by Nel
   }
 }
 \details{
-Data from a classic illustration of the potential for creating a relative chronology using frequency seriation of ceramic artifact types from a midden deposit at San Cristobal in the American Southwest. The site was occupied approximately from CE 1350 to 1680. Ceramic artifact fragment counts are presented for each 1-foot arbitrary level excavated within the midden deposit. When converted to percentages (usually excluding the corrugated ware), the data illustrate a classical "battleship curve" like those described in Ford (1962).
+Data from a midden deposit at San Cristobal in the American Southwest. It has been used as a classic illustration of the potential for creating a relative chronology using frequency seriation of ceramic artifact types. The site was occupied approximately from CE 1350 to 1680. Ceramic artifact fragment counts are presented for each 1-foot (30 cm) arbitrary level excavated in the midden deposit. When converted to percentages (usually excluding the corrugated ware), the data illustrate a classical "battleship curve" like those described in Ford (1962).
 }
 \source{
 Nelson, N. C. 1916. Chronology of the Tano Ruins, New Mexico. \emph{American Anthropologist} 18(2): 159--180.
 }
 \references{
+Carlson, David L. 2017. \emph{Quantitative Methods in Archaeology Using R}. Cambridge University Press, pp 381-386, 390-393.
+
 Ford, J. A. (1962) A Quantitative Method for Deriving Cultural Chronology. \emph{Pan American Union, Technical Manual No} 1.
 }
 \examples{

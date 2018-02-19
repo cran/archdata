@@ -31,12 +31,15 @@ Early Stone Age Sites - Norway
   }
 }
 \details{
- Data on 43 Early Stone Age assemblages in Norway come originally from  Bølviken et al (1982). The data were scanned from Table A5 (Appendix A) in Baxter (1994).
+ Data on 43 Early Stone Age (8000 - 4000 BCE) assemblages in Norway come originally from  Bølviken et al (1982). The data were scanned from Table A5 (Appendix A) in Baxter (1994).
 }
 \source{
 Baxter, M. J. 1994. \emph{Exploratory Multivariate Analysis in Archaeology}. Edinburgh University Press. Edinburgh.
 
 Bølviken, E., E. Helskog, K. Helskog, I. M. Holm-Olsen, L. Solheim, and R. Bertelsen. 1982. Correspondence Analysis: An Alternative to Principal Components. \emph{World Archaeology} 14: 41-60.
+}
+\references{
+Carlson, David L. 2017. \emph{Quantitative Methods in Archaeology Using R}. Cambridge University Press, pp 398-410.
 }
 \examples{
 data(ESASites)

@@ -39,6 +39,8 @@ Baxter, M. J., Cool H.E.M., Heyworth M.P. and Jackson, C.M. 1995. Compositional 
 
 Baxter, M. J., Cool, H. E. M. and Jackson, C. M. (2005). Further Studies in the Compositional Variability of Colourless Romano-British Glass.  \emph{Archaeometry}  47, 47-68.
 
+Carlson, David L. 2017. \emph{Quantitative Methods in Archaeology Using R}. Cambridge University Press, pp 245-247, 256-261.
+
 Jackson, C M, J R Hunter, S E Warren, and H E M Cool. 1991. The Analysis of Blue-Green Glass and Glassy Waste from Two Romano-British Glass Working Sites. In \emph{Archaeometry 1990}, edited by E. Pernicka and G. A. Wagner, pp 295-304. Birkhäuser Verlag.
 }
 \examples{

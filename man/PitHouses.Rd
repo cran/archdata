@@ -27,6 +27,10 @@ Baxter, M. J. 1994. \emph{Exploratory Multivariate Analysis in Archaeology}. Edi
 
 Engelstad, E. 1988. Pit Houses in Arctic Norway - An Investigation of Their Typology Using Multiple Correspondence Analysis. In \emph{Multivariate Archaeology}, edited by T. Madsen, pp. 71-84. Aarhus University Press.
 }
+\references{
+Carlson, David L. 2017. \emph{Quantitative Methods in Archaeology Using R}. Cambridge University Press, pp 192-197.
+}
+
 \examples{
 data(PitHouses)
 # Crosstabulation of Hearths with Size

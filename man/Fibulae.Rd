@@ -6,7 +6,7 @@
 Bronze La Tene fibulae from Munsingen, Switzerland
 }
 \description{
-The La Tène fibulae from the Iron Age cemetery of Münsingen near Berne, Switzerland described by F. R. Hodson (1968).
+The La Tène fibulae from the Iron Age cemetery of Münsingen near Berne, Switzerland (100 - 500 BCE) described by F. R. Hodson (1968).
 }
 \usage{data("Fibulae")}
 \format{
@@ -39,6 +39,8 @@ Doran, J. E. and F. R. Hodson. 1975. \emph{Mathematics and Computers in Archaeol
 Hodson, F. R. 1968. \emph{The La Tène Cemetery at Műnsingen-Rain}. Stampfli, Berne.
 }
 \references{
+Carlson, David L. 2017. \emph{Quantitative Methods in Archaeology Using R}. Cambridge University Press, pp 88-91, 95-99, 103-109, 127-129, 132-138, 162-169.
+
 Hodson, F. R., P. H. A. Sneath, J. E. Doran. 1966. Some Experiments in the Numerical Analysis of Archaeological Data.  \emph{Biometrika} 53: 311-324.
 
 Hodson, F. R. 1969. Searching for Structure within Multivariate Archaeological Data. \emph{World Archaeology} 1: 90-105.

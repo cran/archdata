@@ -35,11 +35,13 @@ Binford (1972) presents the percentages for 12 tool types at 32 assemblages from
 Binford, L. R. 1972. Contemporary Model Building: Paradigms and the Current State of Paleolithic Research. In \emph{Models in Archaeology}, edited by D. L. Clarke, pp 109--166. Methuen.
 }
 \references{
+Carlson, David L. 2017. \emph{Quantitative Methods in Archaeology Using R}. Cambridge University Press, pp 304-314.
+
 Isaac, Glynn Ll. 1977. \emph{Olorgesailie: Archeological Studies of a Middle Pleistocene Lake Basin in Kenya}. University of Chicago.
 
 Kleindienst, Maxine R. 1961. Variability within the Late Acheulian assemblage in East Africa. \emph{South African Archaeological Bulletin} 16: 35--52.
 
-Kleindienst, Maxine R. 1962. Components of the East African Acheulian assemblage: an analytic approach. In Actes du IVe Congrès Panafricain de Préhistoire et de l’Étude du Quaternaire, ed. C. Mortelmans and J. Nenquin, pp 81-105.
+Kleindienst, Maxine R. 1962. Components of the East African Acheulian assemblage: an analytic approach. In \emph{Actes du IVe Congrès Panafricain de Préhistoire et de l’Étude du Quaternaire}, ed. C. Mortelmans and J. Nenquin, pp 81-105.
 }
 \examples{
 data(Acheulean)

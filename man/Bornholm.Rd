@@ -57,12 +57,12 @@ Data on the occurrence of 39 different types of ornamentation in 77 female grave
   }
 }
 \details{
-Nielsen used data on 39 different types of ornaments from Ørsnes (1966) to seriate a series of 77 Germanic Iron Age graves from Bornholm, Denmark (1988, Table 4 and Figure 7). Baxter re-analyzed the data to illustrate correspondence analysis (1994: 104-107, Table A6). These data were taken from Nielsen's Table 4 showing her seriation. Baxter's version is scrambled in order to evaluate different seriation methods and does not include the ornament types (illustrated in Nielson's Figure 7). The data include Ørsnes's period designation (1966).
+Nielsen used data on 39 different types of ornaments from Ørsnes (1966) to seriate a series of 77 Late Germanic Iron Age (CE 550 - 800) graves from Bornholm, Denmark (1988, Table 4 and Figure 7). Baxter re-analyzed the data to illustrate correspondence analysis (1994: 104-107, Table A6). These data were taken from Nielsen's Table 4 showing her seriation. Baxter's version is scrambled in order to evaluate different seriation methods and does not include the ornament types (illustrated in Nielson's Figure 7). The data include Ørsnes's period and subperiod designations (1966).
 }
 \source{
 Baxter, M. J. 1994. \emph{Exploratory Multivariate Analysis in Archaeology}. Edinburgh University Press. Edinburgh.
 
-Nielsen, D. H. 1988. Correspondence analysis applied to hords and graves of the Germanic Iron Age. In \emph{Multivariate Archaeology: Numerical Approaches in Scandinavian Archaeology}, edited by Torsten Madsen, pp 37-54. Jutland Archaeological Society Publications XXI. Arahus University Press.
+Nielsen, K. H. 1988. Correspondence Analysis Applied to Hords and Graves of the Germanic Iron Age. In \emph{Multivariate Archaeology: Numerical Approaches in Scandinavian Archaeology}, edited by Torsten Madsen, pp 37-54. Jutland Archaeological Society Publications XXI. Arahus University Press.
 
 Ørsnes, M. 1966.  \emph{Form og stil i Sydskandinaviens yngre germanske jernalder}. Nationalmuseets skrifter. Arkæologisk-historisk række 11. Copenhagen.
 }

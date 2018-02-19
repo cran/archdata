@@ -23,13 +23,13 @@ Counts of 44 engraved bone design elements at five prehistoric hunter-gatherer s
 }
 \source{
 Baxter, M. J. 2003. \emph{Statistics in Archaeology}. Arnold, London.
-
+}
+\references{
 Conkey, M. W. 1980. The Identification of Prehistoric Hunter-Gatherer Aggregation Sites: The Case of Altamira. \emph{Current Anthropology} 21: 609-30.
 
 Kaufman, D. 1998. Measuring Archaeological Diversity: An Application of the Jackknife Technique. \emph{American Antiquity} 63: 73-85.
 
 Kintigh, K. 1984. Measuring Archaeological Diversity by Comparison with Simulated Assemblages. \emph{American Antiquity} 49: 44-54.
-
 }
 \examples{
 data(EngrBone)

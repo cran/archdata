@@ -22,7 +22,7 @@ Results of chemical analyses of 48 specimens of Romano-British pottery from 5 si
     \item{\code{K2O}}{Percentage potassium oxide}
     \item{\code{TiO2}}{Percentage titanium dioxide}
     \item{\code{MnO}}{Percentage manganese oxide}
-    \item{\code{BaO}}{Percantage barium oxide}
+    \item{\code{BaO}}{Percentage barium oxide}
   }
 }
 \details{
@@ -32,6 +32,10 @@ Results of chemical analyses of 48 specimens of Romano-British pottery published
 Baxter, M. J. 2003. \emph{Statistics in Archaeology}. Arnold.
 
 Tubb, A., A. J. Parker, and G. Nickless. 1980. The Analysis of Romano-British Pottery by Atomic Absorption Spectrophotometry. \emph{Archaeometry} 22: 153-71.
+}
+
+\references{
+Carlson, David L. 2017. \emph{Quantitative Methods in Archaeology Using R}. Cambridge University Press, pp 247-255, 335-342.
 }
 \examples{
 data(RBPottery)

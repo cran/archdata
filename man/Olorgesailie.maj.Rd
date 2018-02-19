@@ -26,6 +26,8 @@ The data come from Table E1 in Isaac (1977: 239). The \code{rownames} identify l
 Isaac, Glynn Ll. 1977. \emph{Olorgesailie: Archeological Studies of a Middle Pleistocene Lake Basin in Kenya}. The University of Chicago Press.
 }
 \references{
+Carlson, David L. 2017. \emph{Quantitative Methods in Archaeology Using R}. Cambridge University Press, pp 115-119, 138-142.
+
 Potts, R. 2011. Olorgesailie--Retrospective and current synthesis. In \emph{Casting the net wide: papers in honor of Glynn Isaac and his approach to human origins research}, edited by J. Sept and D. Pilbeam, pp 1--20. American School of Prehistoric Resarch Monographs in Archaeology and Paleoanthropology.
 }
 \examples{

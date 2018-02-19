@@ -19,7 +19,7 @@ Counts of 5 different stone artifact types from 33 Mesolithic sites in Britain.
   }
 }
 \details{
-Data on 33 Mesolithic assemblages are a subset Pitts (1979) extracted from a set published by Mellars (1976). The data were scanned from Table A3 (Appendix A) in Baxter (1994).
+Data on 33 Mesolithic (9000 - 4000 BCE) assemblages are a subset Pitts (1979) extracted from a set published by Mellars (1976). The data were scanned from Table A3 (Appendix A) in Baxter (1994).
 }
 \source{
 Baxter, M. J. 1994. \emph{Exploratory Multivariate Analysis in Archaeology}. Edinburgh University Press. Edinburgh.

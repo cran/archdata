@@ -37,6 +37,8 @@ Measurements on five types of dart points from Fort Hood in central Texas (Darl,
 Fort Hood Projectile Points. Electronic database compiling the results of multiple surface surveys at Fort Hood in the possession of David L. Carlson, Department of Anthropology, Texas A&M University, College Station, TX. The artifacts are curated at Fort Hood, TX by the Cultural Resources Branch of the Directorate of Public Works.
 }
 \references{
+Carlson, David L. 2017. \emph{Quantitative Methods in Archaeology Using R}. Cambridge University Press, pp 52-60, 99-103, 106-107, 109-115, 148-157, 182-185, 198-211.
+
 Carlson, S. B., H. B. Ensor, D. L. Carlson, E. A. Miller, and D E. Young. 1987. Archaeological Survey at Fort Hood, Texas Fiscal Year 1984. \emph{United States Army Fort Hood. Archaeological Resource Management Series, Research Report Number 14}.
 
 Futato, E. M. 1983. Projectile Point Morphology: Steps Toward a Formal Account. in Proceedings of the Thirty-fourth Southeastern Archaeological Conference, Lafayette, Louisiana, October 27-19, 1977. \emph{Southeastern Archaeological Conference. Bulletin} 21: 38--81.

@@ -29,6 +29,8 @@ The Ernest Witte site in Austin County, Texas contains four burial groups from d
 Hall, G. D. 1981. Allen's Creek: A Study in the Cultural Prehistory of the Lower Brazos River Valley. \emph{The University of Texas at Austin. Texas Archeological Survey. Texas. Research Report No.} 61.
 }
 \references{
+Carlson, David L. 2017. \emph{Quantitative Methods in Archaeology Using R}. Cambridge University Press, pp 350-357.
+
 Hall, G. D. 2010. Ernest Witte site. \emph{Handbook of Texas Online} \url{http://www.tshaonline.org/handbook/online/articles/bbe05}. Texas State Historical Association.
 }
 \examples{

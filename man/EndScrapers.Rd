@@ -20,16 +20,17 @@ Data on 3000 Upper Paleolithic end scrapers from two sites analyzed by James Sac
   }
 }
 \details{
-The scrapers are grouped on 5 categorical variables into 48 groups. Sackett's analysis employed Chi square and the examination of residuals. Read used the data to illustrate loglinear modelling.The data come from Tables IV and VIII (pp 373 and 380) in Sackett's original article
+The scrapers are grouped on 5 categorical variables into 48 groups. Sackett's analysis employed Chi square and the examination of residuals. Read used the data to illustrate loglinear modelling (1974, 2007). The data come from Tables IV and VIII (pp 373 and 380) in Sackett's original article
 }
 \source{
 Sackett, James R. 1966. Quantitative Analysis of Upper Paleolithic Stone Tools. \emph{American Anthropologist} 68(2): 356--394.
 }
 \references{
+Carlson, David L. 2017. \emph{Quantitative Methods in Archaeology Using R}. Cambridge University Press, pp 72-77, 91-94.
+
 Read, Dwight W. 1974. Some Comments on Typologies in Archaeology and an Outline of a Methodology. \emph{American Antiquity} 39: 216-242.
 
 Read, Dwight W. 2007. \emph{Artifact Classification: A Conceptual and Methodological Approach}. Left Coast Press.
-
 }
 \examples{
 data(EndScrapers)
