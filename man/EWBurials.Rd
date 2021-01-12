@@ -31,13 +31,16 @@ Hall, G. D. 1981. Allen's Creek: A Study in the Cultural Prehistory of the Lower
 \references{
 Carlson, David L. 2017. \emph{Quantitative Methods in Archaeology Using R}. Cambridge University Press, pp 350-357.
 
-Hall, G. D. 2010. Ernest Witte site. \emph{Handbook of Texas Online} \url{http://www.tshaonline.org/handbook/online/articles/bbe05}. Texas State Historical Association.
+Hall, G. D. 2010. Ernest Witte site. \emph{Handbook of Texas Online} \url{https://www.tshaonline.org/handbook/entries/ernest-witte-site}. Texas State Historical Association.
 }
 \examples{
 data(EWBurials)
 xtabs(~Age+Sex+Group, EWBurials)
 
-library(circular)
-plot(EWBurials$Direction)
+if (requireNamespace("circular", quietly = TRUE)) {
+  plot(EWBurials$Direction)
+} else {
+  cat("This example requires package circular.\n")
+}
 }
 \keyword{datasets}

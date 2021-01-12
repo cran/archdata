@@ -67,11 +67,11 @@ Mischka, D., Roth, G. and K. Struckmeyer 2015. Michelsberg and Oxie in contact n
 Lüning, J. 1967. Die Michelsberger Kultur: Ihre Funde in zeitlicher und räumlicher Gliederung. \emph{Berichte der Römisch-Germanischen Kommission} 48, 1-350.
 }
 \examples{
+if (requireNamespace("ca", quietly = TRUE)) {
 data(Michelsberg)
 str(Michelsberg)
 names(Michelsberg)[5:39]
 attributes(Michelsberg)$typological_key
-library(ca)
 
 # geographical distribution
 xy <- as.matrix(Michelsberg[,41:42])/1000
@@ -84,15 +84,15 @@ abu <- Michelsberg[, 5:39]
 rownames(abu) <- Michelsberg$id
 
 # CA with site 109, Flintbek LA48, as supplementary row
-MBK.ca <- ca(abu, ndim=min(dim(abu)-1), suprow=109 )
+MBK.ca <- ca::ca(abu, ndim=min(dim(abu)-1), suprow=109 )
 
 # asymmetric biplot with row quality and column contribution
 plot(MBK.ca, map="rowprincipal", contrib=c("relative", "absolute"))
 
 title(main="Row-isometric Biplot of Michelsberg CA", cex.sub=.7, 
      sub="color intensity represents quality for sites and contributions for types")
-# The arch is a curved trend in 3D; zoom with mouse scroll
-library(rgl)
-plot3d(MBK.ca, map="rowprincipal", labels=c(0,0))
+} else {
+  cat("This example requires package ca to run.\n")
+}
 }
 \keyword{datasets}

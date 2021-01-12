@@ -25,10 +25,10 @@ Handaxes from the Furze Platt site stored at the Royal Ontario Museum.
 The data consist of measurements on 600 handaxes from the Furze Platt site stored at the Royal Ontario Museum that were measured by William Fox. The measurements follow the system used by Derek Roe (Roe 1964, 1968, 1981). Fox's measurements were digitized by Tony Baker and uploaded to his website.
 }
 \source{
-Fox, William and Tony Baker. 2006. Dimensions of 600 Acheulean Handaxes from Furze Platt, Maidenhead, Berkshire, England. Online at \url{http://ele.net/acheulean/FPatROM.htm}.
+Fox, William and Tony Baker. 2006. Dimensions of 600 Acheulean Handaxes from Furze Platt, Maidenhead, Berkshire, England. Archived at \url{https://web.archive.org/web/20080515113522/http://www.ele.net/acheulean/FPatROM.htm}. 11 Accessed January 2021.
 }
 \references{
-Baker, Tony. 2006. The Acheulean Handaxe. Online article available at \url{http://ele.net/acheulean/handaxe.htm}. Accessed Oct 14, 2013.
+Baker, Tony. 2006. The Acheulean Handaxe. Archived article available at \url{https://web.archive.org/web/20080831233847/http://www.ele.net:80/acheulean/handaxe.htm}. Accessed 11 January 2021.
 
 Carlson, David L. 2017. \emph{Quantitative Methods in Archaeology Using R}. Cambridge University Press, pp 221-231, 269-277, 321-330.
 

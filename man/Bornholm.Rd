@@ -68,10 +68,14 @@ Nielsen, K. H. 1988. Correspondence Analysis Applied to Hords and Graves of the 
 }
 
 \examples{
-data(Bornholm)
-library(MASS)
-Bornholm.ca <- corresp(Bornholm[, 4:42], nf=2)
-plot(Bornholm.ca$rscore, pch=substring(Bornholm$Period, 1, 1), cex=.75)
-boxplot(Bornholm.ca$rscore[, 1]~Bornholm$Period, main="First CA Axis by Period")
+if (requireNamespace("MASS", quietly = TRUE)) {
+  data(Bornholm)
+  Bornholm.ca <- MASS::corresp(Bornholm[, 4:42], nf=2)
+  plot(Bornholm.ca$rscore, pch=substring(Bornholm$Period, 1, 1), cex=.75)
+  boxplot(Bornholm.ca$rscore[, 1]~Bornholm$Period, main="First CA Axis by Period")
+} else {
+  cat("This example requires the MASS package.\n")
+}
+
 }
 \keyword{datasets}

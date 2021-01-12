@@ -2,9 +2,7 @@
 \name{Acheulean}
 \alias{Acheulean}
 \docType{data}
-\title{
-Seven African Acheulean Sites
-}
+\title{Seven African Acheulean Sites}
 \description{
 Stone tool assemblage data from a paper by Lewis Binford (1972). The sites include Olorgesailie, Isimila, Kalambo Falls, Lochard, Kariandusi, Broken Hill, and Nsongezi. Data include approximate latitude and longitude for each site as well as the frequency for each of 12 stone tool types.
 }

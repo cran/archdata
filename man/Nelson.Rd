@@ -38,8 +38,12 @@ data(Nelson)
 Nelson.pct <- prop.table(as.matrix(Nelson[,3:7]), 1)*100
 # Percentages for each type by level
 round(Nelson.pct, 2)
+
 # Battleship plot from plotrix package
-library(plotrix)
-battleship.plot(Nelson.pct)
+if (requireNamespace("plotrix", quietly = TRUE)) {
+  plotrix::battleship.plot(Nelson.pct, col="gray")
+} else {
+  cat("This example requires package plotrix.\n")
+}
 }
 \keyword{datasets}
